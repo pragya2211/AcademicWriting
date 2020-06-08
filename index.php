@@ -27,7 +27,7 @@ divisions, schools, and academic and administrative programs.        </p>
 </div>
 <div class="card rteleft facultycard" style="height:300px; width:400px;">
 <p style="float:center; margin-left: 20px;"><strong><img alt="" src="./images/Workshop.jpeg" style="float:right;height:220px; width: 350px; border:1px solid; padding:2px;"></strong></p>
-<p align="left" style="width:400px; font-family:&#39;Old Standard TT&#39;;font-size:20px;color:#3fada8;margin-left: 120px;margin-top: 255px"><a href="http://localhost:8000/Workshop.php" style="color: #3fada8">Workshops</a></p>
+<p align="left" style="width:400px; font-family:&#39;Old Standard TT&#39;;font-size:20px;color:#3fada8;margin-left: 120px;margin-top: 255px"><a href="Workshop.php" style="color: #3fada8">Workshops</a></p>
 </div>
 <div class="card rteleft facultycard" style="height:300px; width:400px;">
 <p style="float:center; margin-left: 20px;"><strong><img alt="" src="./images/outreach.jpg" style="float:right;height:220px; width: 350px; border:1px solid; padding:2px;"></strong></p>
