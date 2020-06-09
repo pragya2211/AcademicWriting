@@ -155,12 +155,10 @@ nav ul li:hover{
     <div class="top_links"><a href="./index.php"><h1>Academic Writing Lab </h1></a></div>
     <nav>
   <ul>
+    <li><a href="./index.php">Home</a></li>
     <li><a href="./awl-about.php">About us</a></li>
     <li class="has-children"><a href="./WritingCourses.php">Courses</a>
-    </li><li class="has-children"><a href="./Workshop.php">Workshops</a></li>   
-     <li class="has-children"><a href="./awl-resources.php">Resources</a>
-    </li>   
-    <li><a href="./awl-announcements.php">Announcements</a></li>
+    </li><li class="has-children"><a href="./Workshop.php">Workshops/Sessions</a></li>    
     <li><a href="./awl-contact.php">Contact us</a></li>
 </ul></nav>
  <style type="text/css">
