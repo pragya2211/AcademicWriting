@@ -58,15 +58,11 @@ divisions, schools, and academic and administrative programs.        </p>
 </div>
 <div class="card rteleft facultycard" style="height:300px; width:400px;">
 <p style="float:center; margin-left: 20px;"><strong><img alt="" src="./images/Workshop.jpeg" style="float:right;height:220px; width: 350px; border:1px solid; padding:2px;"></strong></p>
-<p align="left" style="width:400px; font-family:&#39;Old Standard TT&#39;;font-size:20px;color:#3fada8;margin-left: 120px;margin-top: 255px"><a href="http://localhost:8000/Workshop.php" style="color: #3fada8">Workshops</a></p>
+<p align="left" style="width:400px; font-family:&#39;Old Standard TT&#39;;font-size:20px;color:#3fada8;margin-left: 90px;margin-top: 255px"><a href="./Workshop.php" style="color: #3fada8">Workshops and Sessions</a></p>
 </div>
 <div class="card rteleft facultycard" style="height:300px; width:400px;">
 <p style="float:center; margin-left: 20px;"><strong><img alt="" src="./images/outreach.jpg" style="float:right;height:220px; width: 350px; border:1px solid; padding:2px;"></strong></p>
-<p align="left" style="width:400px; font-family:&#39;Old Standard TT&#39;;font-size:20px;color:#3fada8;margin-left: 120px;margin-top: 255px"><a href="./Outreach.php" style="color: #3fada8"> Outreach</a></p>
-</div>
-<div class="card rteleft facultycard" style="height:300px; width:400px;">
-<p style="float:center; margin-left: 20px;"><strong><img alt="" src="./images/Sessions.jpg" style="float:right;height:220px; width: 350px; border:1px solid; padding:2px;"></strong></p>
-<p align="left" style="width:400px; font-family:&#39;Old Standard TT&#39;;font-size:20px;color:#3fada8;margin-left: 120px;margin-top: 255px"><a href="./Sessions.php" style="color: #3fada8">Sessions</a></p>
+<p align="left" style="width:400px; font-family:&#39;Old Standard TT&#39;;font-size:20px;color:#3fada8;margin-left: 140px;margin-top: 255px"><a href="./Outreach.php" style="color: #3fada8"> Outreach</a></p>
 </div>
 <div class="card rteleft facultycard" style="height:300px; width:400px;">
 <p style="float:center; margin-left: 20px;"><strong><img alt="" src="./images/WritingCourses.jpeg" style="float:right;height:220px; width: 350px; border:1px solid; padding:2px;"></strong></p>
@@ -75,10 +71,6 @@ divisions, schools, and academic and administrative programs.        </p>
 <div class="card rteleft facultycard" style="height:300px; width:400px;">
 <p style="float:center; margin-left: 20px;"><strong><img alt="" src="./images/Researchblog.jpg" style="float:right;height:220px; width: 350px; border:1px solid; padding:2px;"></strong></p>
 <p align="left" style="width:400px; font-family:&#39;Old Standard TT&#39;;font-size:20px;color:#3fada8;margin-left: 120px;margin-top: 255px"><a href="Researchblog.php" style="color: #3fada8">Research blogs</a></p>
-</div>
-<div class="card rteleft facultycard" style="height:300px; width:400px;">
-<p style="float:center; margin-left: 20px;"><strong><img alt="" src="./images/researchethics.jpg" style="float:right;height:220px; width: 350px; border:1px solid; padding:2px;"></strong></p>
-<p align="left" style="width:400px; font-family:&#39;Old Standard TT&#39;;font-size:20px;color:#3fada8;margin-left: 120px;margin-top: 255px"><a href="./researchethics.php" style="color: #3fada8">Research Ethics</a></p>
 </div>
 
 </div>
