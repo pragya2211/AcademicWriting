@@ -552,8 +552,6 @@ margin-top:20px;
 
 .image-container
 {
-    width: 200px;
-    height: 200px;
     position: relative;
     transition: left 2s;
     -webkit-transition: left 2s;
@@ -566,8 +564,8 @@ margin-top:20px;
         margin: 0 auto;
         margin-top: 20px;
         position: relative;
-        width: 70%;
-        height: 10;
+        height: 500px;
+        width: 100px;
         padding-bottom: 38%;
       user-select: none;
         background-color: #1c1c1c;
@@ -582,6 +580,10 @@ margin-top:20px;
     .container .slide_img img{
         width: inherit;
         height: inherit;
+    }
+    .container .slide_img iframe{
+        width: 100%;
+        height: 100%;
     }
 
      .prev, .next{
@@ -626,7 +628,7 @@ margin-top:20px;
 #nav_slide .dots{
     top: -5px;
     width: 18px;
-    height: 18px;
+    height: 10px;
     margin: 0 4px;
     position: relative;
     border-radius: 100%;
@@ -717,7 +719,7 @@ margin-top:20px;
     }   
     #nav_slide .dots{
         width: 12px;
-        height: 12px;
+        height: 10px;
     }
 }
 @media screen  and(min-width: 970px){
