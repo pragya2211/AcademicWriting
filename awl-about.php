@@ -1,25 +1,23 @@
 <?php include ('main-header.php'); ?>
 <div class="page">
-<div class="container" style="width: 900px; height: 50px;margin-left: 20px;">
+<div class="container" style="width: 500px; height: 300px;margin-left: 250px;">
     
     <input type="radio" id="i1" name="images" checked />
     <input type="radio" id="i2" name="images" />
-    <input type="radio" id="i3" name="images" />
-    <input type="radio" id="i4" name="images" />
-    <input type="radio" id="i5" name="images" />    
+    <input type="radio" id="i3" name="images" />    
     
     <div class="slide_img" id="one">            
             
-            <img src="./gallery/1.jpeg">
+            <iframe src="./gallery/1.pdf#view=fitH"></iframe> 
             
-                <label class="prev" for="i5"><span>&#x2039;</span></label>
+                <label class="prev" for="i3"><span>&#x2039;</span></label>
                 <label class="next" for="i2"><span>&#x203a;</span></label>  
         
     </div>
     
     <div class="slide_img" id="two">
         
-            <img src="./gallery/2.jpg" >
+            <iframe src="./gallery/2.pdf#view=fitH" width="100%" height="100%"></iframe>
             
                 <label class="prev" for="i1"><span>&#x2039;</span></label>
                 <label class="next" for="i3"><span>&#x203a;</span></label>
@@ -27,33 +25,17 @@
     </div>
             
     <div class="slide_img" id="three">
-            <img src="./gallery/3.jpeg">  
+            <iframe src="./gallery/3.pdf#view=fitH" width="100%" height="100%"></iframe>  
             
                 <label class="prev" for="i2"><span>&#x2039;</span></label>
-                <label class="next" for="i4"><span>&#x203a;</span></label>
-    </div>
-
-    <div class="slide_img" id="four">
-            <img src="./gallery/4.jpeg"> 
-            
-                <label class="prev" for="i3"><span>&#x2039;</span></label>
-                <label class="next" for="i5"><span>&#x203a;</span></label>
-    </div>
-
-    <div class="slide_img" id="five">
-            <img src="./gallery/5.jpeg">  
-            
-                <label class="prev" for="i4"><span>&#x2039;</span></label>
                 <label class="next" for="i1"><span>&#x203a;</span></label>
-
     </div>
+
 
     <div id="nav_slide">
         <label for="i1" class="dots" id="dot1"></label>
         <label for="i2" class="dots" id="dot2"></label>
         <label for="i3" class="dots" id="dot3"></label>
-        <label for="i4" class="dots" id="dot4"></label>
-        <label for="i5" class="dots" id="dot5"></label>
     </div>
         
 </div>
@@ -82,7 +64,10 @@ Literary Association (SALA), Association for Asian Studies (AAS, USA) and Canadi
 Association for Commonwealth Literature and Language Studies (CACLALS). Currently, she is a
 faculty member at the SSH department of IIIT Delhi and an adjunct professor at the Dept of
 English, University of Saskatchewan, Canada. She can be reached
-at  <a href="mailto:payel@iiitd.ac.in">payel@iiitd.ac.in</a></p>
+at  <a href="mailto:payel@iiitd.ac.in">payel@iiitd.ac.in</a>
+<br>
+Link to the webpage: <a href="http://pcm.ind.in"> http://pcm.ind.in </a>
+</p>
 
 <?php include ('main-footer.php'); ?>
 	
@@ -90,4 +75,5 @@ at  <a href="mailto:payel@iiitd.ac.in">payel@iiitd.ac.in</a></p>
 
 </div>
 </body>
+
 </html>
