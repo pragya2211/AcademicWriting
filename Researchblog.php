@@ -16,7 +16,7 @@
 	<a style="color: #3fada8">Course name</a> : <br>SSH311 Advanced Writing
 	<br><br>
 	<a style="color: #3fada8">To view the paper, click here</a>,  
-	<a href = "https://www.youtube.com/watch?v=LDH6xg-55OQ&t=1s"> Link </a>
+	<a href = "https://drive.google.com/open?id=1KPyL65TXeOa8cUqSSLl2OycKCZeGdBMJ"> Link </a>
 </p>
 </div>
 <div class="card rteleft facultycard" style="height:550px; width:350px;">
