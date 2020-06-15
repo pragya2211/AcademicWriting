@@ -24,12 +24,12 @@
 <p align="left" style="width:350px;margin-left: 15px;  font-family:Old Standard TT;font-size:17px;">
 	<a style="color: #3fada8">Topic </a>:<br>Women and the partition of 1947
 	<br><br>
-	<a style="color: #3fada8">Video type </a>: <br>Argumentative Opinion Piece
+	<a style="color: #3fada8">Video type </a>: <br>Narrative on the women and partition
 	<br><br>
 
 	<a style="color: #3fada8">Name</a> :<br> Dhairya Chaudhary, Pritish Wadhwa, Aryan Taneja, Rahul Sethi, Samridh Shakya 
 	<br><br>
-	<a style="color: #3fada8">Course name</a> :<br> 
+	<a style="color: #3fada8">Course name</a> :<br> SSH215 Nation and her Narratives
 	<br><br>
 	<a style="color: #3fada8">To view the video, click here</a>,  
 	<a href = "https://www.youtube.com/watch?v=LDH6xg-55OQ&t=1s"> Link </a>
