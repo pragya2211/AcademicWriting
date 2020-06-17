@@ -36,6 +36,10 @@
 <div class="page">
 
 <h1>Courses</h1>
+<p align="justify" style="font-size: 16px;">
+	The Writing Lab offers two kinds of courses, Writing Courses and Communication Courses. 
+	To view the names of the courses and their details, click on the buttons below.
+	</p>
 
 
     <form method="post"> 

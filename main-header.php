@@ -11,77 +11,85 @@
     <link href='https://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
     <!--<link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>-->
 <style>
-    #container ul{
-    list-style-type: none;
-    font-size:107%;
-    margin: 0px;
-    padding: 0px;
-    overflow: hidden;
-    background-color: #3fada8;
-    font-variant:small-caps;
-}
-#container ul li {
-    float: left;
-    padding: 0px;
-}
-#container ul li a
+#menu
 {
-    color: white;
-    text-align: center;
-    padding: 12px 13px;
-    text-decoration: none;
-    height: 50px;
-    line-height: 40px; 
-    width: 150 px;
-    position: relative;
-}
-#container ul li:hover{
-    background-color: gray;
-    text-decoration: underline;
-}
-#container ul ul{
-    display:none;
-    font-size:85%;
-    position:absolute;
-    background-color: #f1f9f9;
-    min-width: 180px;
-    max-width: 250px;
-    border:1px solid #999;
-    box-shadow: 0px 10px 18px 0px rgba(0,0,0,0.3);
-    font-variant:normal;
+  margin-top: 10px;
 }
 
-#container ul ul li{
-    color: black;
-    text-decoration: none;
-    text-align: left;
-    border:1px solid #ddd;
-    float: inherit;
-    display: block;
-}
-#container ul ul li a
-{
-    color: black;
-}
+        #menu > ul
+        {
+            background: #3fada8;
 
-#container ul li:hover > ul
-{ 
-    display: block;
-}
-#container ul ul ul
-{
-    margin-left: 50px;
-}
+        }
+        #menu ul
+        {
+            list-style: none;
+            position: relative;
+            margin: 0;
+            padding: 0;
+            float: left;
+
+        }
+        #menu ul a
+        {
+            color: #fff;
+            text-decoration: none;
+            font-size: 15px;
+            line-height: 45px;
+            padding: 0 15px;
+            display: block;
+        }
+        #menu ul li
+        {
+            width: 160px;
+            height: 40px;
+            line-height: 45px;
+            float: left;
+            position: relative;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            font-variant:small-caps;
+            border: 0.5px solid #fff;
+        }
+        #menu ul li:hover
+        {
+            background: #95a5a6;
+        }
+        #menu ul ul
+        {
+            position: absolute;
+            background: #7f8c8d;
+            top: 100%;
+            left: 0;
+            display: none;
+
+        }
+        #menu ul ul li
+        {
+            float: none;
+            width: 160px;
+        }
+        #menu ul ul li:hover
+        {
+            border-left: 1px;
+        }
+        nav
+        {
+           z-index: 1000;
+           position: relative;
+        }
 nav ul {
   background-color: #3fada8;
   display:flex;
   flex-direction:column;
+
 }
 nav ul li{
     list-style-type: none;
     height: 40px;
     line-height: 30px; 
-    width: 100 px;
+    width: 100px;
     font-size:95%;
 
 }
@@ -90,10 +98,27 @@ nav ul li a{
   display:block;
   text-decoration: none;
   color:#f9f9f9;
+  text-align: center;
 }
 nav ul li:hover{
-  background:rgba(0,0,0, .25);
+   background: #7f8c8d;
 }
+nav ul ul
+        {
+            position: absolute;
+            background: #7f8c8d;
+            top: 100%;
+            left: 0;
+            display: none;
+            width: 200px;
+
+        }
+        nav ul ul li
+        {
+            float: none;
+            width: 200px;
+        }
+        
 
 .arrow{
   font-family:sans-serif;
@@ -153,13 +178,17 @@ nav ul li:hover{
     </div>
     
     <div class="top_links"><a href="./index.php"><h1>Academic Writing Lab </h1></a></div>
-    <nav>
+    <nav style="width: 1000px; margin-left: 20px;">
   <ul>
     <li><a href="./index.php">Home</a></li>
-    <li><a href="./awl-about.php">About us</a></li>
     <li class="has-children"><a href="./WritingCourses.php">Courses</a>
     </li><li class="has-children"><a href="./Workshop.php">Workshops/Sessions</a></li>    
-    <li><a href="./awl-contact.php">Contact us</a></li>
+    <li><a >Contact us</a>
+      <ul>
+        <li><a href="IndividualWritingConsultations.php">Consultation</a></li>
+        <li><a href="./awl-contact.php">General Query</a></li>
+      </ul>
+    </li>
 </ul></nav>
  <style type="text/css">
 .select
