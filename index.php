@@ -214,9 +214,9 @@ Literary Association (SALA), Association for Asian Studies (AAS, USA) and Canadi
 Association for Commonwealth Literature and Language Studies (CACLALS). Currently, she is a
 faculty member at the SSH department of IIIT Delhi and an adjunct professor at the Dept of
 English, University of Saskatchewan, Canada. She can be reached
-at  <a style="color:#3fada8; href="mailto:payel@iiitd.ac.in">payel@iiitd.ac.in</a>
+at  <a style="color:#3fada8;" href="mailto:payel@iiitd.ac.in">payel@iiitd.ac.in</a>
 <br>
-Link to the webpage: <a style="color:#3fada8; href="http://pcm.ind.in"> http://pcm.ind.in </a>
+Link to the webpage: <a style="color:#3fada8;" href="http://pcm.ind.in"> http://pcm.ind.in </a>
 </p>
 </div>
 
