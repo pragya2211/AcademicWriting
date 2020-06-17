@@ -102,6 +102,7 @@ nav ul li a{
 }
 nav ul li:hover{
    background: #7f8c8d;
+    text-decoration: underline;
 }
 nav ul ul
         {
