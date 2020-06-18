@@ -63,7 +63,7 @@ input[type=submit]:hover {
          <br>
          <p style="font-size: 18px;margin-left: 200px;"><b>Email:</b></p> <input type="text" name="entry.283262177">
          <br>
-         <p style="font-size: 18px;margin-left: 200px;"><b>Issue:</b></p> <input type="issue" name="entry.231685495">
+         <p style="font-size: 18px;margin-left: 200px;"><b>Issue:</b></p> <textarea type="issue" name="entry.231685495" style="margin-left: 200px; height: 100px;width: 500px;"></textarea>
          <br>
          <input type="submit" name="submit" value="Submit">
 

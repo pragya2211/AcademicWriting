@@ -119,65 +119,57 @@ Effective Skills for Engineers and Scientists (with Central Library IIIT Delhi);
 Communicating your science for public outreach; 13 November 2019<br><br>
 
 3-Day module on Advanced Writing; 28 - 31December 2019
-Ethics in Research and Publications (with Central Library IIIT Delhi) ; 22 January 2020<br><br>
+Ethics in Research and Publications (with Central Library IIIT Delhi) ; 22 January 2020
 
 </div>
 </body>
-<div id="box" style="position: absolute;margin-left: 700px; margin-top: 300px; color: white;height: 370px;width: 250px;border: 1px solid #2f3542;">
+<div id="box" style="position: absolute;margin-left: 700px; margin-top: 300px; color: white;height: 185px;width: 250px;border: 1px solid #2f3542;">
 	<table>
 		<tr>
 			<td>
-			<p style="font-size: 16px;color: #3fada8">
-				<a href="IndividualWritingConsultations.php" style="color: #3fada8">
+				<a href="IndividualWritingConsultations.php" style="color: #3fada8; font-size: 16px;">
 				Individual Writing Consultations
 			</a>
-			</p>
+			<br>
 		</td>
 		</tr>
 		<tr>
 			<td>
-			<p style="font-size: 16px;color: #3fada8">
-				<a href="./PeerReviewGroups.php" style="color: #3fada8">
+				<a href="./PeerReviewGroups.php" style="color: #3fada8; font-size: 16px;">
 				Peer Review Groups
 			</a>
-			</p>
+			<br>
 		</td>
 		</tr>
 		<tr>
 			<td>
-			<p style="font-size: 16px;color: #3fada8">
-				<a href="./Workshop.php" style="color: #3fada8">
+				<a href="./Workshop.php" style="color: #3fada8; font-size: 16px;">
 				Workshops and Sessions
 			</a>
-			</p>
+			<br>
 		</td>
 		</tr>
 			<tr>
 				<td>
 
-				<p style="font-size: 16px;color: #3fada8">
-					<a href="./Outreach.php" style="color: #3fada8">
+					<a href="./Outreach.php" style="color: #3fada8; font-size: 16px;">
 					Outreach
 				</a>
-				</p>
+				<br>
 			</td>
 			</tr>
 			<tr>
 				<td>
-			<p style="font-size: 16px;color: #3fada8">
-				<a href="./WritingCourses.php" style="color: #3fada8">
-				Courses
+				<a href="./WritingCourses.php" style="color: #3fada8; font-size: 16px;">
+				Courses<br>
 			</a>
-			</p>
 		</td>
 		</tr>
 		<tr>
 			<td>
-			<p style="font-size: 16px;color: #3fada8">
-				<a href="Researchblog.php" style="color: #3fada8">
+				<a href="Researchblog.php" style="color: #3fada8; font-size: 16px;">
 				Research blogs
-			</a>
-			</p>
+				</a>
 		</td>
 		</tr>
 	</table>
@@ -202,21 +194,11 @@ media outreach. </p>
 
 <p align="justify" style="font-size:15px;">Located in the heart of India's capital, the department serves as a hub for Social Sciences and Humanities (SSH) and regularly hosts seminars, public talks and research related events at IIIT Delhi. It addresses the educational needs we are likely to see in the future with even more convergence of Computer Science with social systems and an increasing role for the social sciences and the humanities in technology and business solutions. At the same time, the increasing role Computer Science will play in addressing society's problems, as well as answering the human questions posed by social scientists, will lead to an increase in demand for Computer Science experts who are well versed in the social sciences and also of social scientists who understand computing and Computer Science and apply them innovatively to solve problems in their own domain. The SSH department at IIIT Delhi would seek to bridge the disciplinary boundaries that exist between various Computer Science and social science streams and develop a cross -disciplinary research and teaching agenda that is forward looking and cutting edge in technology education. </p>
 
-<h2>About the Coordinator:</h2>
-<h3>Dr. Payel Chattopadhyay Mukherjee </h3>
-<p align="justify" style="font-size: 15px;">Dr Payel Chattopadhyay Mukherjee’s work focuses on Cosmopolitanism, Home, Colonial and
-Postcolonial Literature, Indian Nationalism, Women and Gender, History of Ideas, and South Asian
-Studies. She has written for several scholarly publications including Routledge Research in
-Postcolonial Literatures, South Asian Review, Journal of Human Values, Sahitya Akademi, Gandhi
-Marg to name a few, and has presented her research at academic forums like The European
-Association for Commonwealth Literature and Language Studies (EACLALS), The South Asian
-Literary Association (SALA), Association for Asian Studies (AAS, USA) and Canadian
-Association for Commonwealth Literature and Language Studies (CACLALS). Currently, she is a
-faculty member at the SSH department of IIIT Delhi and an adjunct professor at the Dept of
-English, University of Saskatchewan, Canada. She can be reached
-at  <a style="color:#3fada8; href="mailto:payel@iiitd.ac.in">payel@iiitd.ac.in</a>
+<h3>About the Coordinator:</h3>
+<p align="justify" style="font-size: 16px;"><a href="payel.php" style="color: black;"> Dr Payel Chattopadhyay Mukherjee</a></p>
+
 <br>
-Link to the webpage: <a style="color:#3fada8; href="http://pcm.ind.in"> http://pcm.ind.in </a>
+
 </p>
 </div>
 

@@ -6,7 +6,7 @@
 
 <div class="card rteleft facultycard" style="height:400px; width:350px;">
 <p align="left" style="width:350px; font-family:Old Standard TT;font-size:17px;margin-left: 15px; ">
-	<a style="color: #3fada8">  Topic </a>:<br><br> Is Game-Based Learning always beneficial?
+	<a style="color: #3fada8"> Is Game-Based Learning always beneficial? </a>
 	<br><br><br>
 	<a style="color: #3fada8">Article type </a>: <br><br>Argumentative Opinion Piece
 	<br><br><br>
@@ -25,7 +25,7 @@
 	<a style="color: #3fada8">Video type </a>: <br><br>Narrative on the women and partition
 	<br><br><br>
 
-	<a style="color: #3fada8">Name</a> :<br> <br>sDhairya Chaudhary, Pritish Wadhwa, Aryan Taneja, Rahul Sethi, Samridh Shakya 
+	<a style="color: #3fada8">Name</a> :<br> <br>Dhairya Chaudhary, Pritish Wadhwa, Aryan Taneja, Rahul Sethi, Samridh Shakya 
 	<br><br><br>
 	<a style="color: #3fada8">Course name</a> :<br> <br>SSH215 Nation and her Narratives
 	<br><br><br>
