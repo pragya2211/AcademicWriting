@@ -194,11 +194,10 @@ media outreach. </p>
 
 <p align="justify" style="font-size:15px;">Located in the heart of India's capital, the department serves as a hub for Social Sciences and Humanities (SSH) and regularly hosts seminars, public talks and research related events at IIIT Delhi. It addresses the educational needs we are likely to see in the future with even more convergence of Computer Science with social systems and an increasing role for the social sciences and the humanities in technology and business solutions. At the same time, the increasing role Computer Science will play in addressing society's problems, as well as answering the human questions posed by social scientists, will lead to an increase in demand for Computer Science experts who are well versed in the social sciences and also of social scientists who understand computing and Computer Science and apply them innovatively to solve problems in their own domain. The SSH department at IIIT Delhi would seek to bridge the disciplinary boundaries that exist between various Computer Science and social science streams and develop a cross -disciplinary research and teaching agenda that is forward looking and cutting edge in technology education. </p>
 
-<h3>About the Coordinator:</h3>
-<p align="justify" style="font-size: 16px;"><a href="payel.php" style="color: black;"> Dr Payel Chattopadhyay Mukherjee</a></p>
+<h3>Coordinator: <a href="payel.php" style="color:#3fada8">Dr Payel Chattopadhyay Mukherjee</a> </h3>
 
 <br>
-
+<br>
 </p>
 </div>
 

@@ -39,8 +39,6 @@
 <h2>Payel C Mukherjee</h2>
 <br/>
 <p style="float:center; "><strong><img alt="" src="https://www.iiitd.ac.in/sites/default/files/images/faculty/payel.jpg" style="float:left;height:200px; border:1px solid; padding:2px;" /></strong>  </p>
-<h3 style="margin-left: 200px; ">Assistant Professor</h3>
-<p style="margin-left: 200px; ">Room No: A-219</p>
  <p style="margin-left: 200px">Dr Payel Chattopadhyay Mukherjee’s work focuses on Cosmopolitanism, Home, Colonial and
 Postcolonial Literature, Indian Nationalism, Women and Gender, History of Ideas, and South Asian
 Studies. She has written for several scholarly publications including Routledge Research in
@@ -52,7 +50,8 @@ Association for Commonwealth Literature and Language Studies (CACLALS). Currentl
 faculty member at the SSH department of IIIT Delhi and an adjunct professor at the Dept of
 English, University of Saskatchewan, Canada. She can be reached
 at  <a href="mailto:payel@iiitd.ac.in" style="color:#3fada8;">payel@iiitd.ac.in</a>
-<br><br>
+<p style="margin-left: 200px; ">Room No: A-219</p>
+<p style="margin-left: 200px; ">
 Link to the webpage: <a style="color:#3fada8;" href="payelcmukh.wordpress.com"> payelcmukh.wordpress.com </a></p>
 
  
