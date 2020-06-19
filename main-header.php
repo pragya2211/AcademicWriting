@@ -122,7 +122,7 @@
               <li><a href="IndividualWritingConsultations.php">Consultations</a></li>
               <li><a href="PeerReviewGroups.php">Peer Review Groups</a></li>
               <li><a href="Outreach.php">Outreach</a></li>
-              <li><a href="ResearchBlog.php">Research Blogs</a></li>
+              <li><a href="Researchblog.php">Research Blogs</a></li>
             </ul>
           </li>
             
