@@ -50,7 +50,9 @@ Association for Commonwealth Literature and Language Studies (CACLALS). Currentl
 faculty member at the SSH department of IIIT Delhi and an adjunct professor at the Dept of
 English, University of Saskatchewan, Canada. She can be reached
 at  <a href="mailto:payel@iiitd.ac.in" style="color:#3fada8;">payel@iiitd.ac.in</a>
-<p style="margin-left: 200px; ">Room No: A-219</p>
+<p style="margin-left: 200px; ">Office: A-219, R & D Building<br>
+Phone: 011-26907-354
+</p>
 <p style="margin-left: 200px; ">
 Link to the webpage: <a style="color:#3fada8;" href="payelcmukh.wordpress.com"> payelcmukh.wordpress.com </a></p>
 
