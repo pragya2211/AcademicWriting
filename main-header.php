@@ -102,7 +102,7 @@
         <a href="https://iiitd.ac.in"><img src="./images/iiitd-logo.png" alt="SSH-IIITD logo" /></a>
     </div>
     
-    <div class="top_links"><h1><a style="color: #3fada8;text-decoration: none;" href="./index.php">Department Of Social Sciences and Humanities</a> </h1></div>
+    <div class="top_links"><h1><a style="color: #3fada8;text-decoration: none;" href="./index.php">Academic Writing Lab</a> </h1></div>
 
 
 
