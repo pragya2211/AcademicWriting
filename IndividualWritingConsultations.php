@@ -33,7 +33,10 @@ formal appointment for a Individual Writing Consultation. </p>
 <h2> Slots:</h2>
 <p style="font-size:16px;" align="justify">
 Every Wednesday, 3 - 4 p.m<br>
-Each slot duration: 20 minutes
+Each slot duration: 20 minutes<br><br>
+3:00 - 3:20 p.m<br>
+3:20 - 3:40 p.m<br>
+3:40 - 4:00 p.m<br>
 </p>
 <p style="font-size:14px;" align="justify">
 Please check the FAQs carefully before you put in a request.</p>

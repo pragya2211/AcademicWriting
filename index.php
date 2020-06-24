@@ -184,8 +184,7 @@ Ethics in Research and Publications (with Central Library IIIT Delhi) ; 22 Janua
        <!-- <h1>Welcome !</h1> -->
 	
 <div style="width: 600px;">
-<p align="justify" style="font-size:15px;">The Academic Writing Lab is an important constituent of IIIT Delhi and is housed in the
-writing lab within the SSH department. It will primarily provide writing assistance to all University
+<p align="justify" style="font-size:15px;">The Academic Writing Lab is an important constituent of IIIT Delhi and is housed in the writing lab within the <a href="https://ssh-website.herokuapp.com/index.php">Department of Social Sciences and Humanities (SSH)</a>. It will primarily provide writing assistance to all University
 divisions, schools, and academic and administrative programs. The program designs credit and non-
 credit, and studio courses, seminars, workshops, workshop series.  The lab will also provide training
 in writing pedagogy, individual tutoring for undergraduates and graduate students, and consultations
