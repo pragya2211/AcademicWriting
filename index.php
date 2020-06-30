@@ -43,13 +43,13 @@
 
 <div class="page">
 
-<div class="container" style="width: 1000px; height: 70px;">
+<div class="container" style="width: 1000px; height: 180px;">
     
     <input type="radio" id="i1" name="images" checked />   
     
     <div class="slide_img" id="one">            
             
-            <img src="./gallery/1.jpg">
+            <img src="./images/awl_logo.png">
         
         
     </div>
